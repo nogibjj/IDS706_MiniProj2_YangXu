@@ -1,6 +1,7 @@
 # Basic utilities
 requests==2.26.0
 boto3==1.24.87
+pandas==2.1.0
 
 # Web development
 flask==2.0.1
