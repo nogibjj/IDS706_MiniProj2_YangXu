@@ -18,6 +18,9 @@ Ensure the presence of:
 - Python (Version 3.6 or newer)
 - Pandas (Version 2.1.0)
 
+## Data Visualization
+
+![Price Distribution](Price_distribution.png)
 
 
 [![example workflow](https://github.com/nogibjj/IDS706_MiniProj2_YangXu/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_MiniProj2_YangXu/actions/workflows/cicd.yml)
